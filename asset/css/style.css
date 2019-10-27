@@ -1,0 +1,33 @@
+.text-center h1 {
+    font-family: 'Gothic A1', sans-serif;
+    font-size: 30px;
+    font-weight: 200;
+}
+
+b {
+    font-weight: 900;
+}
+
+/* body {
+
+    font-family: 'Gothic A1', sans-serif;
+    background-color: honeydew
+} */
+
+*/ #sticky-footer {
+    flex-shrink: none;
+}
+
+div .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.content {
+    display: none;
+    /* padding: 10px 10px 0px 10px; */
+}
+
+
+.page-active {
+    display: block;
+}
